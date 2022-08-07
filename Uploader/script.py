@@ -28,7 +28,7 @@ class Translation(object):
     START_TEXT = """
 Hi {} 
 
-I am Powerful Url Uploader Bot
+I am Powerful Url Uploader Bot. Multiple Source Support. To see /help more information.
  
 """
 
@@ -45,9 +45,9 @@ I am Powerful Url Uploader Bot
 # give credit to developer
 
     ABOUT_TEXT = """
-<b>♻️ My Name</b> : Url Uploader Bot
+<b>♻️ My Name</b> : Url Uploader Dc Bot
 
-<b>🌀 Channel</b> : <a href="https://t.me/TMWAD">@TMWAD</a>
+<b>🌀 Channel</b> : <a href="https://t.me/Groupdcbots">@Group Dc Bots</a>
 
 <b>🌺 Heroku</b> : <a href="https://heroku.com/">Heroku</a>
 
@@ -55,7 +55,7 @@ I am Powerful Url Uploader Bot
 
 <b>🇵🇲 Framework :</b> <a href="https://docs.pyrogram.org/">Pyrogram 2.0.30</a>
 
-<b>👲 Developer :</b> <a href="https://t.me/kinu6">@kinu6</a>
+<b>👲 Developer :</b> <a href="https://t.me/selfiebd">@selfiebd</a>
 
 """
 
@@ -117,7 +117,7 @@ I am Powerful Url Uploader Bot
             InlineKeyboardButton('📛 Close', callback_data='close')
         ]]
     )
-    FORMAT_SELECTION = "Now Select the desired formats"
+    FORMAT_SELECTION = "Now Select the desired formats below."
     SET_CUSTOM_USERNAME_PASSWORD = """"""
     DOWNLOAD_START = "Trying to Download ⌛\n\n <i>{} </i>"
     UPLOAD_START = "<i>{} </i>\n\n📤 Uploading Please Wait "
